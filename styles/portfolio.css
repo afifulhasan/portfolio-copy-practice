@@ -1,0 +1,29 @@
+
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings: "width" 100;
+}
+
+
+/*shared styke*/
+.text-primary{
+color: rgba(253, 110, 10, 1) ;
+   
+}
+
+
+
+/* Nav Styles */
+
+nav{
+display: flex;
+}
+
+.nav-title{
+
+font-weight: 800;
+font-size: 45px;
+
+}
